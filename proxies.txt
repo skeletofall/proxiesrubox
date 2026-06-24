@@ -1,3 +1,3 @@
 Russia Premium|213.135.88.58:1080
 USA Fast|52.229.30.3:80
-Russia Google no captcha|195.19.50.226:1080
+Russia Google без капчи|195.19.50.226:1080
